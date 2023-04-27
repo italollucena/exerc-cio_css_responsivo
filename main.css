@@ -60,6 +60,7 @@ a {
     display: flex;
     flex-direction: row;
     align-items: center;
+    text-align: justify;
 }
 
 .destaque .sobrealoja img {
